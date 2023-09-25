@@ -27,13 +27,9 @@ description: Some quotes from our wonderful community
 21. "LEP. It just makes sense" -bdiddydisco
 22. "He's LEP. He's LEP. He's LEP. He's makin' punk." -eggboi
 
-    \
-
-
 
 
 ### Additional reading
 
-[Twitter: WTF are Low Effort Punks? By LamboWhale ](https://twitter.com/Lambo\_Whale/status/1437427834369228804)
+[Twitter: WTF are Low Effort Punks? By LamboWhale](https://twitter.com/Lambo\_Whale/status/1437427834369228804)
 
-\
