@@ -26,6 +26,7 @@ description: Some quotes from our wonderful community
 20. "LEP is the punkest collection on blockchain" -voidcross
 21. "LEP. It just makes sense" -bdiddydisco
 22. "He's LEP. He's LEP. He's LEP. He's makin' punk." -eggboi
+23. "LEP - Adjective - looking bright and attractive but in fact cheap and of low quality." -tAudrey
 
 
 
