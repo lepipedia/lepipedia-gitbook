@@ -7,7 +7,7 @@ Lambo Buying Punk thread [🚴](https://emojiterra.com/person-biking/) - [https:
 \
 DaoBao thoughts 🎨 - [https://twitter.com/dbc\_\_\_/status/1565153059415605248](https://twitter.com/dbc\_\_\_/status/1565153059415605248)
 
-
+Spitfunkolips story :books:- [https://twitter.com/spitfunkoiips/status/1707052199614746875](https://twitter.com/spitfunkoiips/status/1707052199614746875)
 
 foot.eth "investment thesis" [📈](https://emojipedia.org/chart-increasing)- [https://twitter.com/foot\_eth/status/1706964402652717319?t=kpM5xrqsQ0y3TAZ9Ee\_Yhg\&s=19\
 ](https://twitter.com/foot\_eth/status/1706964402652717319?t=kpM5xrqsQ0y3TAZ9Ee\_Yhg\&s=19)
