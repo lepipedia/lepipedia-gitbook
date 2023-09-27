@@ -1,15 +1,16 @@
 # Notable Tweets
 
+Lambo Bible thread ✝️ - [https://twitter.com/Lambo\_Whale/status/1437427834369228804](https://twitter.com/Lambo\_Whale/status/1437427834369228804)
 
-
-Lambo Bible thread - [https://twitter.com/Lambo\_Whale/status/1437427834369228804](https://twitter.com/Lambo\_Whale/status/1437427834369228804)
-
-Lambo Buying Punk thread - [https://twitter.com/Lambo\_Whale/status/1564397739714256897](https://twitter.com/Lambo\_Whale/status/1564397739714256897)
+Lambo Buying Punk thread [🚴](https://emojiterra.com/person-biking/) - [https://twitter.com/Lambo\_Whale/status/1564397739714256897](https://twitter.com/Lambo\_Whale/status/1564397739714256897)
 
 \
-DaoBao - [https://twitter.com/dbc\_\_\_/status/1565153059415605248](https://twitter.com/dbc\_\_\_/status/1565153059415605248)
+DaoBao thoughts 🎨 - [https://twitter.com/dbc\_\_\_/status/1565153059415605248](https://twitter.com/dbc\_\_\_/status/1565153059415605248)
 
 
+
+foot.eth "investment thesis" [📈](https://emojipedia.org/chart-increasing)- [https://twitter.com/foot\_eth/status/1706964402652717319?t=kpM5xrqsQ0y3TAZ9Ee\_Yhg\&s=19\
+](https://twitter.com/foot\_eth/status/1706964402652717319?t=kpM5xrqsQ0y3TAZ9Ee\_Yhg\&s=19)
 
 ## LEP
 
