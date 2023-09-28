@@ -1,6 +1,6 @@
 # Derivatives
 
-[Low Effort Nouns](https://loweffortnouns.com/)
+[https://opensea.io/collection/low-effort-pizza](https://opensea.io/collection/low-effort-pizza)[Low Effort Nouns](https://loweffortnouns.com/)
 
 [Fast Food Low Effort Baby Phunks](https://opensea.io/collection/fast-food-low-effort-baby-phunks)
 
@@ -8,7 +8,9 @@
 
 [Low Effort Toadz (!ribbit)](https://opensea.io/collection/low-effort-toadz)
 
-[Low Effort Alien (LEP 12) ](https://opensea.io/collection/low-effort-alien)
+[Low Effort Alien (LEP 12)](https://opensea.io/collection/low-effort-alien)
+
+[Low Effort Pizza ](https://opensea.io/collection/low-effort-pizza)
 
 [Gamubaranai Pankusuru](https://opensea.io/collection/gamubaranai-pankusuru)
 
