@@ -27,6 +27,7 @@ description: Some quotes from our wonderful community
 21. "LEP. It just makes sense" -bdiddydisco
 22. "He's LEP. He's LEP. He's LEP. He's makin' punk." -eggboi
 23. "LEP - Adjective - looking bright and attractive but in fact cheap and of low quality." -tAudrey
+24. "it’s cool it Lowkey reminds me of 'for the culture'" -0xnonchalant.eth&#x20;
 
 
 
