@@ -4,7 +4,7 @@ description: Biggest sales (but not the most important) :)
 
 # Notable Punks Bought
 
-[LEP 0](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/87198930750286842836902562062466327909054195361095182156017571736294365593601), **.01 ETH** haha looks stupid ([tweet](https://twitter.com/LowEffortPunks/status/1387874216817594375)) Owner: [@jxmjxmblank](https://twitter.com/jxmjxmblank)
+[LEP 0](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/87198930750286842836902562062466327909054195361095182156017571736294365593601), **.01 ETH** haha looks stupid Owner: [@jxmjxmblank](https://twitter.com/jxmjxmblank)  ([tweet](https://twitter.com/LowEffortPunks/status/1387874216817594375)) ([his story](https://twitter.com/jxmjxmblank/status/1707528921774981440))
 
 [LEP 11](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/87198930750286842836902562062466327909054195361095182156017571748388993499137), **.01 ETH** first LEP bought Owner: [@LamboWhale](https://twitter.com/Lambo\_Whale)
 
