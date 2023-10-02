@@ -6,7 +6,7 @@
 * [Who is LEP?](low-effort-punks/who-is-lep.md)
 * [Buy Punk](low-effort-punks/buy-punk.md)
 
-## 🔞 RIP - LEP Empire <a href="#cryptovoxels" id="cryptovoxels"></a>
+## 👑 LEP Empire <a href="#cryptovoxels" id="cryptovoxels"></a>
 
 * [Humble Beginnings](cryptovoxels/humble-beginnings.md)
 * [LEP Empire](cryptovoxels/lep-empire.md)
