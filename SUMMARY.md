@@ -8,6 +8,7 @@
 
 ## 🔞 RIP - LEP Empire <a href="#cryptovoxels" id="cryptovoxels"></a>
 
+* [Humble Beginnings](cryptovoxels/humble-beginnings.md)
 * [LEP Empire](cryptovoxels/lep-empire.md)
 * [LEP City](cryptovoxels/lep-city.md)
 * [A look inside the Blockchain](cryptovoxels/a-look-inside-the-blockchain.md)
@@ -28,7 +29,7 @@
 
 * [Lambo Liquidity](lambo-liquidity.md)
 
-## 🔧 ERC721 Migration&#x20;
+## 🔧 ERC721 Migration
 
 * [Why](erc721-migration/why.md)
 * [Process overview](erc721-migration/process-overview.md)
