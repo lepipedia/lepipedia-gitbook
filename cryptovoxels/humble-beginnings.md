@@ -12,4 +12,4 @@ description: May 21, 2021
 
 
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>pool area </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>pool area (69x420 inches) </p></figcaption></figure>
