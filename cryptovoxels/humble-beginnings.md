@@ -4,7 +4,7 @@ description: May 21, 2021
 
 # Humble Beginnings
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Looking to settle</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Looking to settle</p></figcaption></figure>
 
 
 

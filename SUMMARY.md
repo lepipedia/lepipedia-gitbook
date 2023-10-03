@@ -24,10 +24,7 @@
 * [Notable Tweets](history/notable-tweets.md)
 * [LEP Magazines](history/lep-magazines.md)
 * [Derivatives](history/derivatives.md)
-
-***
-
-* [Lambo Liquidity](lambo-liquidity.md)
+* [#IRONPUNK](history/ironpunk.md)
 
 ## 🔧 ERC721 Migration
 
