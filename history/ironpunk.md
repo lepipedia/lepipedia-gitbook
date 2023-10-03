@@ -14,4 +14,12 @@ description: The rush to complete 10k Low Effort Punks started on Sept 19
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>All Time Volume up until the end of 10k (IRONPUNK at the end)</p></figcaption></figure>
 
-\
+
+
+
+
+Final Stretch Tweets
+
+[RUNNING FOR A DREAM](https://twitter.com/loweffortpunks/status/1706741065368105322?s=46\&t=biC02DW3YYMRZOzurj4OcA)
+
+[ITS HAPPENING](https://x.com/loweffortpunks/status/1709040374080045248?s=46\&t=biC02DW3YYMRZOzurj4OcA)\
