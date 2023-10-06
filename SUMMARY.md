@@ -20,6 +20,7 @@
 
 ## 👩🏫 History
 
+* [LOW EFFORT COMiCS](history/low-effort-comics.md)
 * [Notable Punks Bought](history/notable-punks-bought.md)
 * [Notable Tweets](history/notable-tweets.md)
 * [LEP Magazines](history/lep-magazines.md)
