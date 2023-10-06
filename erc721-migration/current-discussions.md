@@ -1,5 +1,5 @@
 ---
-description: Most up-to-date migration discussions
+description: Most up-to-date LEP Migration discussions
 ---
 
 # Current Discussions
