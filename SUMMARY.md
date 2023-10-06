@@ -9,12 +9,8 @@
 ## 👑 LEP Empire <a href="#cryptovoxels" id="cryptovoxels"></a>
 
 * [Humble Beginnings](cryptovoxels/humble-beginnings.md)
-* [LEP Empire](cryptovoxels/lep-empire.md)
+* [LEP EMPIRE MEMORIES](cryptovoxels/lep-empire.md)
 * [LEP City](cryptovoxels/lep-city.md)
-* [A look inside the Blockchain](cryptovoxels/a-look-inside-the-blockchain.md)
-* [LEPizzaria](cryptovoxels/lepizzaria.md)
-* [God Juice Factory](cryptovoxels/god-juice-factory.md)
-* [Tweet Wall (2021)](cryptovoxels/tweet-wall.md)
 * [Great Ostrich Race](cryptovoxels/great-ostrich-race.md)
 * [Notable Moments in CV](cryptovoxels/notable-moments-in-cv.md)
 

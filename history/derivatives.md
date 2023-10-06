@@ -1,6 +1,6 @@
 # Derivatives
 
-[https://opensea.io/collection/low-effort-pizza](https://opensea.io/collection/low-effort-pizza)[Low Effort Nouns](https://loweffortnouns.com/)
+[Low Effort Nouns](https://loweffortnouns.com/)
 
 [Fast Food Low Effort Baby Phunks](https://opensea.io/collection/fast-food-low-effort-baby-phunks)
 
@@ -17,5 +17,7 @@
 [3D LEPs](https://opensea.io/collection/3d-low-effort-punks)
 
 [Are we people or are we LEP](https://opensea.io/collection/are-we-people-or-are-we-lep)
+
+[Low Effort Pizza](https://opensea.io/collection/low-effort-pizza)
 
 [COLLAGEPUNKS](https://opensea.io/collection/collagepunkscollection)
