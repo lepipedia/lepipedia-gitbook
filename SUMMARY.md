@@ -29,3 +29,4 @@
 * [Process overview](erc721-migration/process-overview.md)
 * [Smart Contract](erc721-migration/smart-contract.md)
 * [Cost burden](erc721-migration/cost-burden.md)
+* [Current Discussions](erc721-migration/current-discussions.md)
