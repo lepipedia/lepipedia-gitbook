@@ -17,3 +17,13 @@ Low Effort Comics first ever comic was a request by WhaleGoddess.eth after the p
 <figure><img src="../.gitbook/assets/Completed comic.png" alt=""><figcaption><p>LOW EFFORT COMiCS Volume #4 ‘LEP and the Magic GodJuice Beans’</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Did You Drink All the God Juice.png" alt=""><figcaption><p>LOW EEFORT COMiCS Volume #5 ‘Did You Drink All the God Juice?’</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Volume #6 ‘the fall of Viatlik’.png" alt=""><figcaption><p>LOW EFFORT COMiCS Volume #6 'the "FALL" of Viatlik'</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/I Love Your Car, What do you do for work_.png" alt=""><figcaption><p>LOW EFFORT COMiCS Volume #7 'I love your car! What do you do for work?'</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Sk8 Trick or something.png" alt=""><figcaption><p>LOW EFFORT COMiCS Volume #8 Stonk Skate Trick, basically'</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/ezgif.com-crop (1).gif" alt=""><figcaption><p>Stonk Skate Punk</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Punk at Sea.png" alt=""><figcaption><p>LOW EFFORT COMiCS Volume #9 'Punk at Sea'</p></figcaption></figure>
