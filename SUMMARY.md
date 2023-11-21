@@ -16,7 +16,8 @@
 
 ## 👩🏫 History
 
-* [LOW EFFORT COMiCS](history/low-effort-comics.md)
+* [LOW EFFORT COMiCS](history/low-effort-comics/README.md)
+  * [Mint 1/1 LOW EFFORT COMiCS Here](https://gallery.layerr.art/c/low-effort-comics-1)
 * [Notable Punks Bought](history/notable-punks-bought.md)
 * [Notable Tweets](history/notable-tweets.md)
 * [LEP Magazines](history/lep-magazines.md)
