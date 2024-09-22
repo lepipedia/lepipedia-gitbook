@@ -14,7 +14,7 @@
 * [Great Ostrich Race](cryptovoxels/great-ostrich-race.md)
 * [Notable Moments in CV](cryptovoxels/notable-moments-in-cv.md)
 
-## 👩🏫 History
+## 👩‍🏫 History
 
 * [LOW EFFORT COMiCS](history/low-effort-comics/README.md)
   * [Mint 1/1 LOW EFFORT COMiCS Here](https://gallery.layerr.art/c/low-effort-comics-1)
@@ -23,6 +23,7 @@
 * [LEP Magazines](history/lep-magazines.md)
 * [Derivatives](history/derivatives.md)
 * [#IRONPUNK](history/ironpunk.md)
+* [Morning punk thoughts](history/morning-punk-thoughts.md)
 
 ## 🔧 ERC721 Migration
 
