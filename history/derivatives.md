@@ -21,3 +21,5 @@
 [Low Effort Pizza](https://opensea.io/collection/low-effort-pizza)
 
 [COLLAGEPUNKS](https://opensea.io/collection/collagepunkscollection)
+
+[Low Effort Migos](https://opensea.io/collection/low-effort-migos)
