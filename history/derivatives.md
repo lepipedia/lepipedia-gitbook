@@ -23,3 +23,5 @@
 [COLLAGEPUNKS](https://opensea.io/collection/collagepunkscollection)
 
 [Low Effort Migos](https://opensea.io/collection/low-effort-migos)
+
+[LEPcoin ERC20 on Base](https://www.loweffortcoin.com/)
